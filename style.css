@@ -1,0 +1,15 @@
+.divider {
+  margin-top:20px;
+  margin-bottom:20px;
+  border-top:#CCC 1px solid;
+}
+
+.text-muted {
+  padding-top:20px;
+  padding-bottom:30px;
+}
+
+.btn-group-vertical button {
+  text-align:left;
+  padding:10px;
+}
